@@ -1,0 +1,85 @@
+.elementor-103 .elementor-element.elementor-element-5dc912f9>.elementor-element-populated {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-103 .elementor-element.elementor-element-30247ef8 {
+    --divider-border-style: solid;
+    --divider-color: #000;
+    --divider-border-width: 1px;
+}
+
+.elementor-103 .elementor-element.elementor-element-30247ef8 .elementor-divider-separator {
+    width: 100%;
+    margin: 0 auto;
+    margin-center: 0;
+}
+
+.elementor-103 .elementor-element.elementor-element-30247ef8 .elementor-divider {
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.elementor-103 .elementor-element.elementor-element-30247ef8 .elementor-divider__text {
+    font-family: "Poppins", Sans-serif;
+    font-weight: 700;
+}
+
+.elementor-103 .elementor-element.elementor-element-3253b918 .elementor-posts-container .elementor-post__thumbnail {
+    padding-bottom: calc( 0.66 * 100%);
+}
+
+.elementor-103 .elementor-element.elementor-element-3253b918:after {
+    content: "0.66";
+}
+
+.elementor-103 .elementor-element.elementor-element-3253b918 .elementor-post__thumbnail__link {
+    width: 34%;
+}
+
+.elementor-103 .elementor-element.elementor-element-3253b918 {
+    --grid-column-gap: 50px;
+    --grid-row-gap: 21px;
+}
+
+.elementor-103 .elementor-element.elementor-element-3253b918.elementor-posts--thumbnail-left .elementor-post__thumbnail__link {
+    margin-right: 20px;
+}
+
+.elementor-103 .elementor-element.elementor-element-3253b918.elementor-posts--thumbnail-right .elementor-post__thumbnail__link {
+    margin-left: 20px;
+}
+
+.elementor-103 .elementor-element.elementor-element-3253b918.elementor-posts--thumbnail-top .elementor-post__thumbnail__link {
+    margin-bottom: 20px;
+}
+
+.elementor-103 .elementor-element.elementor-element-3253b918 .elementor-post__title,
+.elementor-103 .elementor-element.elementor-element-3253b918 .elementor-post__title a {
+    color: #000000;
+    font-family: "Poppins", Sans-serif;
+    font-weight: 400;
+}
+
+.elementor-103 .elementor-element.elementor-element-3253b918 .elementor-post__title {
+    margin-bottom: 0px;
+}
+
+.elementor-103 .elementor-element.elementor-element-3253b918 .elementor-post__read-more {
+    color: #FF0000;
+    font-family: "Roboto", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+@media(max-width:767px) {
+    .elementor-103 .elementor-element.elementor-element-3253b918 .elementor-posts-container .elementor-post__thumbnail {
+        padding-bottom: calc( 0.5 * 100%);
+    }
+    .elementor-103 .elementor-element.elementor-element-3253b918:after {
+        content: "0.5";
+    }
+    .elementor-103 .elementor-element.elementor-element-3253b918 .elementor-post__thumbnail__link {
+        width: 36%;
+    }
+}
